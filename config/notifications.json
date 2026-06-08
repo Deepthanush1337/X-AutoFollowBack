@@ -1,0 +1,85 @@
+{
+    "user-ping-scan": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "user-id-scan": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "username-scan": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "giveaway-sniper": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "role-ping-scan": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "keyword-notifier": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "nitro-sniper": {
+        "enabled": true,
+        "by": {
+            "on_discord_webhook": true,
+            "on_whatsapp": true,
+            "in_discord_dms": true
+        }
+    },
+    "server-logs": {
+        "enabled": true
+    },
+    "relationship-logs": {
+        "enabled": true
+    },
+    "gc-logs": {
+        "enabled": true
+    },
+    "server-msgs-sniper": {
+        "enabled": true
+    },
+    "dm-msgs-sniper": {
+        "enabled": true
+    },
+    "gc-msgs-sniper": {
+        "enabled": true
+    },
+    "server-edit-sniper": {
+        "enabled": true
+    },
+    "dm-edit-sniper": {
+        "enabled": true
+    },
+    "gc-edit-sniper": {
+        "enabled": true
+    }
+}

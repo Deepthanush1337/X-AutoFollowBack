@@ -1,0 +1,24 @@
+{
+    "rotator": {
+        "status": false,
+        "statuses": [],
+        "interval": 1
+    },
+    "single_status": {
+        "status": false,
+        "emoji_name": null,
+        "emoji_id": null,
+        "message": ""
+    },
+    "afk": {
+        "users": {},
+        "default_reason": "No reason provided",
+        "blacklist": {
+            "guilds": [],
+            "users": [],
+            "channels": [],
+            "categories": [],
+            "roles": []
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "token": "MUSIC-ALT-TOKEN",
+    "prefix": ",",
+    "allowed_users": [],
+    "lavalink_host": "lavalink.jirayu.net",
+    "lavalink_port": 443,
+    "lavalink_password": "youshallnotpass",
+    "lavalink_https": true,
+    "dashboard_user": "magcord",
+    "dashboard_pass": "magcord",
+    "dashboard_enabled": true
+}
