@@ -1,0 +1,25 @@
+{
+    "giveaway_bots_ids": [
+        824119071556763668,
+        530082442967646230,
+        899899858981371935,
+        235148962103951360,
+        903690362114158632,
+        825617171589759006
+    ],
+    "join_delay": 0,
+    "win_keywords": [
+        "won",
+        "winner",
+        "congratulations",
+        "congrats"
+    ],
+    "keywords": [
+        "giveaway",
+        "react to enter",
+        "ends in",
+        "🎉",
+        "ends at"
+    ],
+    "blacklisted_servers": []
+}

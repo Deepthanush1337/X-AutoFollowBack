@@ -1,0 +1,14 @@
+{
+    "selfbot_name": "MagCord",
+    "license_key": "MAG-XXXX-XXXX-XXXX",
+    "tatum_api_key": "",
+    "time_zone": "Asia/Kolkata",
+    "mode": 5,
+    "active_token": "1",
+    "FULL_URL": "localhost:8000",
+    "PORT": "8000",
+    "prefix": "?",
+    "https": false,
+    "phone_number": "",
+    "logo_url": "https://i.postimg.cc/qMCcZCBn/Mag-Cord-Logo.gif"
+}
